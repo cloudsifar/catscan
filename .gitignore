@@ -1,0 +1,23 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Local virtual envs
+.env/
+.venv/
+
+# IDE/editor folders
+.vscode/
+
+# macOS / Windows artifacts
+.DS_Store
+Thumbs.db
+
+# Catscan local config & history
+.catscan_config.json
+.catscan_history/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
